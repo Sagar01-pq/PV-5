@@ -35,9 +35,28 @@ Reason:
 - No alternative cause identified.
 - Rechallenge not performed.
 
-## 8. Severity Assessment
+## 8. MedDRA Classification
+
+### System Organ Class (SOC)
+- Skin and subcutaneous tissue disorders
+- Gastrointestinal disorders
+- Nervous system disorders
+
+### Preferred Terms (PT)
+- Rash
+- Pruritus
+- Nausea
+- Dizziness
+
+### Lowest Level Terms (LLT)
+- Rash
+- Itching
+- Nausea
+- Dizziness
+
+## 9. Severity Assessment
 - Seriousness: Non-serious
 - Expectedness: Expected
 
-## 9. Outcome
+## 10. Outcome
 Recovered after discontinuation of Amoxicillin.
